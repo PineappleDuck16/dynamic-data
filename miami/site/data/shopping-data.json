@@ -1,0 +1,83 @@
+{
+    "title": "Experience the Best of Miami Shopping",
+    "abstract": "Miami is a shopper's paradise, offering everything from high-end designer boutiques to local artisan markets. Explore the best shopping destinations that reflect the city’s unique style and flair.",
+    "image": "./images/gallery/miamishopping.jpg",
+    "services": [
+        {
+            "title": "Luxury Shopping",
+            "intro": "Discover the world’s most exclusive brands in Miami’s premier luxury shopping destinations:",
+            "list": [
+                "Bal Harbour Shops", "Brickell City Centre", "Design District", "Aventura Mall"
+            ],
+            "image": "/images/homepage/luxuryshopping.jpg"
+        },
+        {
+            "title": "Local Artisan Markets",
+            "intro": "For a more unique and authentic experience, visit Miami's artisan markets, where local artists and designers showcase their creations:",
+            "list": [
+                "Lincoln Road Farmers Market", "Wynwood Marketplace", "Coconut Grove Arts Festival", "Little Havana Art Walk"
+            ],
+            "image": "/images/homepage/localmarkets.jpg"
+        },
+        {
+            "title": "Vintage and Thrift Shopping",
+            "intro": "Miami is also home to a variety of vintage and thrift shops where you can find one-of-a-kind treasures:",
+            "list": [
+                "Fly Boutique", "Miami Twice", "The Rabbit Hole", "Red White and Blue Thrift Store"
+            ],
+            "image": "/images/homepage/vintageshopping.jpg"
+        },
+        {
+            "title": "Outdoor Shopping Destinations",
+            "intro": "Enjoy the beautiful Miami weather while shopping at these popular outdoor malls and shopping districts:",
+            "list": [
+                "Lincoln Road Mall", "Bayside Marketplace", "CocoWalk", "The Falls"
+            ],
+            "image": "/images/homepage/outdoorshopping.jpg"
+        }
+    ],
+    "packages": [
+        {
+            "title": "Luxury Shopping Tour",
+            "description": "Get a VIP shopping experience at Miami’s top luxury destinations, including a personal stylist and exclusive access to designer boutiques.",
+            "image": "/images/homepage/package_luxuryshopping.jpg",
+            "price": "$300",
+            "duration": "Half day"
+        },
+        {
+            "title": "Artisan Market Shopping Tour",
+            "description": "Discover unique, handmade goods from local artisans with a guided tour through Miami’s best outdoor markets and craft fairs.",
+            "image": "/images/homepage/package_artisan.jpg",
+            "price": "$120",
+            "duration": "1 day"
+        },
+        {
+            "title": "Vintage Treasure Hunt",
+            "description": "Explore Miami’s best vintage and thrift shops, guided by a local expert who will help you uncover rare finds and hidden gems.",
+            "image": "/images/homepage/package_vintage.jpg",
+            "price": "$150",
+            "duration": "1 day"
+        },
+        {
+            "title": "Design District Fashion Experience",
+            "description": "Take a guided tour of Miami’s famous Design District, visiting luxury fashion boutiques, art galleries, and designer showrooms.",
+            "image": "/images/homepage/package_designdistrict.jpg",
+            "price": "$250",
+            "duration": "3 hours"
+        },
+        {
+            "title": "Lincoln Road Mall Shopping Spree",
+            "description": "Enjoy a day of shopping at Miami’s iconic Lincoln Road Mall, with stops at popular stores, cafés, and entertainment spots.",
+            "image": "/images/homepage/package_lincolnroad.jpg",
+            "price": "$100",
+            "duration": "1 day"
+        },
+        {
+            "title": "Miami Fashion Week Experience",
+            "description": "Get a behind-the-scenes look at Miami Fashion Week, with exclusive access to shows, designers, and a chance to meet top industry professionals.",
+            "image": "/images/homepage/package_fashionweek.jpg",
+            "price": "$500",
+            "duration": "Full event"
+        }
+    ]
+}

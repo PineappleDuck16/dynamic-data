@@ -1,0 +1,76 @@
+{
+    "title": "Explore Miami’s Iconic Art Deco Architecture",
+    "abstract": "Dive into the heart of Miami's famous Art Deco District, a treasure trove of architectural wonders, rich history, and stylish design.",
+    "image": "./images/artdeco-miami.jpeg",
+    "services": [
+        {
+            "title": "Transportation",
+            "intro": "Navigate the Art Deco District with ease using these transportation methods:",
+            "list": [
+                "Vintage Car Rentals", "Art Deco Trolley", "Bicycle Rentals"
+            ],
+            "image": "/images/artdeco/trans1.jpg"
+        },
+        {
+            "title": "Art Deco Landmarks",
+            "intro": "These are some must-visit Art Deco landmarks in Miami:",
+            "list": [
+                "The Colony Hotel", "The Breakwater", "The Carlyle", "The Delano South Beach"
+            ],
+            "image": "/images/artdeco/landmark1.jpg"
+        },
+        {
+            "title": "Art Deco Dining",
+            "intro": "Dine in style at some of the Art Deco-inspired restaurants and bars in Miami:",
+            "list": [
+                "The Raleigh’s Martini Bar", "The Clevelander", "The Front Porch Cafe", "Gianni's at the Former Versace Mansion"
+            ],
+            "image": "/images/homepage/artdeco_dining.jpg"
+        },
+        {
+            "title": "Art Deco Shopping",
+            "intro": "Shop for vintage and Art Deco-inspired fashion at these unique boutiques:",
+            "list": [
+                "Lincoln Road Vintage Shops", "The Miami Beach Antique Show", "Deco Style Miami", "Retro City Collectibles"
+            ],
+            "image": "/images/homepage/artdeco_shopping.jpg"
+        }
+    ],
+    "packages": [
+        {
+            "title": "Art Deco Walking Tour",
+            "description": "Discover the history and architecture of Miami Beach’s famous Art Deco District with a guided walking tour.",
+            "image": "/images/homepage/package_artdeco1.jpg",
+            "price": "$85",
+            "duration": "2 hours"
+        },
+        {
+            "title": "Art Deco Photo Safari",
+            "description": "Capture the beauty of Miami's Art Deco buildings with a professional photographer guiding you through the best spots.",
+            "image": "/images/homepage/package_artdeco2.jpg",
+            "price": "$150",
+            "duration": "3 hours"
+        },
+        {
+            "title": "Art Deco Vintage Car Ride",
+            "description": "Cruise through the Art Deco District in a vintage car and enjoy a scenic ride along Ocean Drive.",
+            "image": "/images/homepage/package_artdeco3.jpg",
+            "price": "$300",
+            "duration": "1 hour"
+        },
+        {
+            "title": "Art Deco Hotel Tour",
+            "description": "Learn about the design and history of Miami’s Art Deco buildings in this treasure hunt led by experts.",
+            "image": "/images/homepage/package_artdeco4.jpg",
+            "price": "$250",
+            "duration": "Half day"
+        },
+        {
+            "title": "Art Deco Night Tour",
+            "description": "Experience the dazzling lights of the Art Deco District at night with a guided evening tour.",
+            "image": "/images/homepage/package_artdeco5.jpg",
+            "price": "$100",
+            "duration": "2 hours"
+        }
+    ]
+}

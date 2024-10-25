@@ -1,0 +1,83 @@
+{
+    "title": "Discover the Flavors of Miami",
+    "abstract": "Miami’s dining scene reflects its vibrant cultural mix, offering an array of delicious food from around the world. Explore the diverse flavors and culinary traditions that define this city.",
+    "image": "./images/gallery/miamifood.jpg",
+    "services": [
+        {
+            "title": "Cuban Cuisine",
+            "intro": "Miami is famous for its Cuban food. Here are some must-visit spots:",
+            "list": [
+                "Versailles Restaurant", "La Carreta", "El Palacio de los Jugos", "Havana 1957"
+            ],
+            "image": "/images/homepage/cubanfood.jpg"
+        },
+        {
+            "title": "Slavic Flavors",
+            "intro": "Experience Eastern European cuisine with these local gems serving traditional Slavic dishes:",
+            "list": [
+                "Miami Smokers", "Europa Delicatessen", "Tepuy Kitchen", "Russian Caviar House"
+            ],
+            "image": "/images/homepage/slavfood.jpg"
+        },
+        {
+            "title": "Latin American Fusion",
+            "intro": "Sample the vibrant mix of Latin American flavors that blend cultures and traditions:",
+            "list": [
+                "CVI.CHE 105", "Pollo Tropical", "Panther Coffee", "El Tucán"
+            ],
+            "image": "/images/homepage/latinamerican.jpg"
+        },
+        {
+            "title": "Global Gastronomy",
+            "intro": "Explore flavors from around the world in Miami’s diverse culinary scene:",
+            "list": [
+                "KYU Miami (Asian fusion)", "Saffron at Brickell (Indian)", "Estiatorio Milos (Greek)", "Soya e Pomodoro (Italian)"
+            ],
+            "image": "/images/homepage/globalfood.jpg"
+        }
+    ],
+    "packages": [
+        {
+            "title": "Little Havana Food Tour",
+            "description": "Walk through Little Havana and savor the best Cuban sandwiches, pastries, and coffee while learning about the history behind the food.",
+            "image": "/images/homepage/package_littlehavana.jpg",
+            "price": "$120",
+            "duration": "Half day"
+        },
+        {
+            "title": "Miami Cooking Class",
+            "description": "Join a local chef for a hands-on cooking class, where you’ll learn to make classic Cuban dishes like ropa vieja and tostones.",
+            "image": "/images/homepage/package_cookingclass.jpg",
+            "price": "$200",
+            "duration": "3 hours"
+        },
+        {
+            "title": "Slavic Cuisine History Tour",
+            "description": "Delve into the rich history of Slavic food in Miami with this cultural and culinary journey, featuring stops at authentic eateries.",
+            "image": "/images/homepage/package_slavic.jpg",
+            "price": "$150",
+            "duration": "1 day"
+        },
+        {
+            "title": "Craft Beer and Tapas Tasting",
+            "description": "Experience Miami’s thriving craft beer scene paired with small plates and tapas from around the globe in this guided tasting tour.",
+            "image": "/images/homepage/package_beertasting.jpg",
+            "price": "$90",
+            "duration": "4 hours"
+        },
+        {
+            "title": "Latin American Food History Tour",
+            "description": "Explore the evolution of Latin American cuisine in Miami on this food history tour, sampling dishes from Peru, Brazil, and Colombia.",
+            "image": "/images/homepage/package_foodhistory.jpg",
+            "price": "$180",
+            "duration": "1 day"
+        },
+        {
+            "title": "Wynwood Art & Culinary Tour",
+            "description": "Combine art and food on this guided tour through Wynwood, with stops for bites at trendy restaurants and cafés.",
+            "image": "/images/homepage/package_wynwood.jpg",
+            "price": "$110",
+            "duration": "Half day"
+        }
+    ]
+}

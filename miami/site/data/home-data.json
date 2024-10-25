@@ -1,0 +1,83 @@
+{
+    "title":"Welcome to Miami",
+    "abstract":"This is one of the most beautiful city in the South Florida.",
+    "image":"./images/gallery/miamisky.jpg",
+    "services":[
+        {
+            "title":"Transportation",
+            "intro":"You can move around Miami with the following methods",
+            "list":[
+                "Uber","Bus","Metro","Metro Movers"
+            ],
+            "image":"/images/homepage/trans1.jpg"
+        },
+        {
+            "title":"Tours",
+            "intro":"Several place you might want to visit",
+            "list":[
+                "Everglades","Vizcaya","Frost Science Museum","South Beach"
+            ],
+            "image":"/images/homepage/tour1.jpeg"
+        },
+        {
+            "title":"Food",
+            "intro":"There are so many good places around there",
+            "list":[
+                "CVI.CHE 105","Kyu, Miami","Mayami Wynwood","Casa Neos"
+            ],
+            "image":"/images/homepage/food1.jpeg"
+        },
+        {
+            "title":"Flight",
+            "intro":"There are two airports for visiting Miami",
+            "list":[
+                "FLL","MIA"
+            ],
+            "image":"/images/homepage/flight1.jpeg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"South Beach tour",
+            "description":"Walk around Lincoln Road and famous Art Deco area",
+            "image":"/images/homepage/package1.jpeg",
+            "price":"$99",
+            "duration":"1 day"
+        },
+        {
+            "title": "Everglades Adventure",
+            "description": "Explore the vast Everglades, spot wildlife, and experience an airboat ride",
+            "image": "/images/homepage/package2.jpeg",
+            "price": "$600",
+            "duration": "1 day"
+        },
+        {
+            "title": "Little Havana Experience",
+            "description": "Immerse yourself in Cuban culture with a visit to Little Havana, tasting authentic Cuban food and music",
+            "image": "/images/homepage/package3.jpeg",
+             "price": "$120",
+            "duration": "Half day"
+        },
+        {
+            "title": "Miami Skyline Cruise",
+            "description": "Enjoy a scenic boat tour along Biscayne Bay, taking in views of the Miami skyline and celebrity mansions",
+            "image": "/images/homepage/package4.jpeg",
+            "price": "$800",
+            "duration": "2 hours"
+        },
+        {
+            "title": "Wynwood Art & Brewery Tour",
+            "description": "Discover Wynwood’s vibrant street art and taste local brews at popular breweries",
+            "image": "/images/homepage/package5.jpeg",
+            "price": "$60",
+            "duration": "1 day"
+        },
+        {
+            "title": "Key Biscayne Escape",
+            "description": "Relax on the serene beaches of Key Biscayne and explore Bill Baggs Cape Florida State Park",
+            "image": "/images/homepage/package6.jpeg",
+            "price": "$50",
+            "duration": "1 day"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Uncover Miami’s Rich History",
+    "abstract": "Miami is a city with a fascinating past, from its early Native American roots to the modern architectural wonders. Explore the landmarks, stories, and cultural heritage that shaped Miami into what it is today.",
+    "image": "./images/gallery/miamihistory.jpg",
+    "services": [
+        {
+            "title": "Historic Landmarks",
+            "intro": "Miami is home to a variety of historic landmarks that tell the story of the city’s development:",
+            "list": [
+                "The Freedom Tower", "Vizcaya Museum and Gardens", "Cape Florida Lighthouse", "The Deering Estate"
+            ],
+            "image": "/images/homepage/landmarks.jpg"
+        },
+        {
+            "title": "Cultural Heritage Sites",
+            "intro": "Discover the cultural heritage sites that have played a role in shaping Miami’s diverse communities:",
+            "list": [
+                "Little Haiti Cultural Complex", "Cuban Memorial Boulevard Park", "Jewish Museum of Florida", "Miami Circle"
+            ],
+            "image": "/images/homepage/heritage.jpg"
+        },
+        {
+            "title": "Museums",
+            "intro": "Learn about Miami’s history through its many museums that preserve and showcase the city’s unique past:",
+            "list": [
+                "HistoryMiami Museum", "The Wolfsonian-FIU", "The Black Archives Historic Lyric Theater", "Miami Children's Museum"
+            ],
+            "image": "/images/homepage/museums.jpg"
+        },
+        {
+            "title": "Native American History",
+            "intro": "Explore the indigenous history of the Miami area, with connections to the Tequesta and Seminole tribes:",
+            "list": [
+                "Miccosukee Indian Village", "Big Cypress National Preserve", "Trail of the Lost Tribes", "The Ah-Tah-Thi-Ki Museum"
+            ],
+            "image": "/images/homepage/nativehistory.jpg"
+        }
+    ],
+    "packages": [
+        {
+            "title": "Historic Miami Walking Tour",
+            "description": "Walk through the streets of Downtown Miami and discover the city's most iconic historical landmarks with a local historian.",
+            "image": "/images/homepage/package_walking.jpg",
+            "price": "$75",
+            "duration": "2 hours"
+        },
+        {
+            "title": "Freedom Tower & Cuban Exile Experience",
+            "description": "Visit the Freedom Tower, known as the Ellis Island of the South, and learn about the history of Cuban immigration to Miami.",
+            "image": "/images/homepage/package_freedomtower.jpg",
+            "price": "$120",
+            "duration": "3 hours"
+        },
+        {
+            "title": "Vizcaya Museum and Gardens Tour",
+            "description": "Explore the opulent estate and gardens of Vizcaya, a National Historic Landmark that offers a glimpse into Miami's Gilded Age.",
+            "image": "/images/homepage/package_vizcaya.jpg",
+            "price": "$150",
+            "duration": "Half day"
+        },
+        {
+            "title": "Native American Heritage Experience",
+            "description": "Learn about the indigenous history of Miami with a visit to the Miccosukee Indian Village and a guided tour of the Big Cypress National Preserve.",
+            "image": "/images/homepage/package_native.jpg",
+            "price": "$180",
+            "duration": "1 day"
+        },
+        {
+            "title": "Miami Museum Pass",
+            "description": "Gain access to multiple museums in Miami with a single pass, including HistoryMiami Museum, the Wolfsonian-FIU, and the Jewish Museum of Florida.",
+            "image": "/images/homepage/package_museum.jpg",
+            "price": "$60",
+            "duration": "All day"
+        },
+        {
+            "title": "Art Deco Architecture History Tour",
+            "description": "Explore the architectural history of Miami Beach’s Art Deco District with a guided tour focusing on the design, history, and stories behind these iconic buildings.",
+            "image": "/images/homepage/package_artdeco.jpg",
+            "price": "$90",
+            "duration": "2 hours"
+        }
+    ]
+}
