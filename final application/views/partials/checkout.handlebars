@@ -1,0 +1,55 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-8">
+            {{> orderlist}}
+        </div>
+        <div class="col-md-4">
+            <h2>Checkout Information</h2>
+            <form action="/buyerinfo/process" role="form" method="POST">
+                <input type="hidden" name="_csrf" value="{{csrf}}">
+
+                <div class="mb-3">
+                    <label for="fieldFirstName" class="form-label">First Name</label>
+                    <input type="text" name="firstname" class="form-control" id="fieldFirstName" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldLastName" class="form-label">Last Name</label>
+                    <input type="text" name="lastname" class="form-control" id="fieldLastName" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldAddress" class="form-label">Address</label>
+                    <input type="text" name="address" class="form-control" id="fieldAddress" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldCity" class="form-label">City</label>
+                    <input type="text" name="city" class="form-control" id="fieldCity" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldState" class="form-label">State</label>
+                    <input type="text" name="state" class="form-control" id="fieldState" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldZip" class="form-label">Zip</label>
+                    <input type="text" name="zip" class="form-control" id="fieldZip" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldEmail" class="form-label">Email</label>
+                    <input type="email" class="form-control" name="email" id="fieldEmail" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fieldPhone" class="form-label">Phone</label>
+                    <input type="tel" class="form-control" name="phone" id="fieldPhone" required>
+                </div>
+
+                <button class="btn btn-primary w-100" type="submit">Order Confirm</button>
+            </form>
+        </div>
+    </div>
+</div>

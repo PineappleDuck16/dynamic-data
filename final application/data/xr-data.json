@@ -1,0 +1,77 @@
+{
+    "bannerimage": "/images/xr/bannerimage.jpg",
+    "title": "XR Development",
+    "works": [
+        {
+            "image": "/images/xr/work1.png",
+            "title": "Timeless Tales: Journey to the Past",
+            "description": "Step into a world where history comes alive. Explore pivotal moments in ancient civilizations, interact with historical figures, and witness key events firsthand.",
+            "duration": "30–45 minutes"
+        },
+        {
+            "image": "/images/xr/work2.jpg",
+            "title": "Stellar Horizons: Beyond the Milky Way",
+            "description": "Embark on an intergalactic voyage to explore distant galaxies, navigate asteroid fields, and witness the formation of stars in a visually stunning cosmic adventure.",
+            "duration": "20–30 minutes"
+        },
+        {
+            "image": "/images/xr/work3.jpg",
+            "title": "Submerged: Underwater Mysteries",
+        "description": "Dive into the depths of the ocean to explore vibrant coral reefs, ancient shipwrecks, and hidden underwater caves teeming with marine life.",
+        "duration": "25–40 minutes"
+        },
+        {
+            "image": "/images/xr/work4.jpeg",
+            "title": "Architect’s Vision: Build Your Dream City",
+            "description": "Become a city planner and create your ideal urban landscape. Experiment with layouts, zoning, and infrastructure in a hands-on city-building simulation.",
+            "duration": "40–60 minutes"
+        },
+        {
+            "image": "/images/xr/work5.jpeg",
+            "title": "EcoQuest: Save the Planet",
+            "description": "Participate in environmental missions to clean polluted oceans, plant virtual forests, and rebuild ecosystems, learning about sustainability along the way.",
+            "duration": "30–50 minutes"
+        },
+        {
+            "image": "/images/xr/work6.jpeg",
+            "title": "Celestial Symphony: Paint the Sky",
+            "description": "Take control of the stars and create dazzling night sky art. Arrange constellations, design auroras, and craft your unique celestial masterpiece.",
+            "duration": "15–25 minutes"
+        },
+        {
+            "image": "/images/xr/work7.jpg",
+            "title": "Escape the Quantum Labyrinth",
+            "description": "Navigate a mysterious maze where the rules of physics constantly shift. Solve puzzles that challenge your perception of time and space.",
+            "duration": "35–50 minutes"
+        },
+        {
+            "image": "/images/xr/work8.jpg",
+           "title": "Guardian of the Forest",
+            "description": "Assume the role of a forest spirit protecting an enchanted woodland. Battle invaders, nurture wildlife, and maintain balance in this magical ecosystem.",
+            "duration": "30–45 minutes"
+        },
+        {
+            "image": "/images/xr/work9.jpg",
+           "title": "Virtual Voyage: Around the World in Minutes",
+            "description": "Travel to iconic locations across the globe, from the Great Wall of China to the pyramids of Egypt, in an awe-inspiring virtual tour.",
+            "duration": "20–30 minutes"
+        },
+        {
+            "image": "/images/xr/work10.jpg",
+            "title": "Symphony of Motion: Dance Your Story",
+            "description": "Express yourself through motion in an interactive dance experience where your movements shape the visual and audio environment.",
+            "duration": "15–20 minutes"
+        },
+        {
+            "image": "/images/xr/work11.jpg",
+            "title": "ChronoDetective: Solve the Time Crime",
+            "description": "Play as a time-traveling detective solving crimes across different eras. Collect clues, interrogate suspects, and uncover hidden truths.",
+            "duration": "40–60 minutes"
+        },
+        {
+            "image": "/images/xr/work12.jpg",
+            "description": "Experience the thrill of zero gravity in a space station simulation. Complete astronaut challenges like repairing satellites and navigating space debris.",
+        "duration": "25–35 minutes"
+        }
+    ]
+}

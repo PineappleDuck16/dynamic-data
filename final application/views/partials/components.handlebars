@@ -1,0 +1,13 @@
+<div class="container"></div>
+  <div class="row">
+    {{#each data.components}}
+    <div class="col-sm">
+      
+      <img src="{{this.image}}" alt="">
+      <a href="{{this.link}}"> <h3>{{this.title}}</h3></a>
+      <p>{{this.description}}</p>
+    
+    </div>
+    {{/each}}
+  </div>
+</div>

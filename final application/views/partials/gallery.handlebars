@@ -1,0 +1,12 @@
+{{!-- .row class is a from bootsrap's grid --}}
+<div class="row gallery">
+
+{{!-- our image loop --}}
+    {{#each gallery.images}}
+    <div class="col-3 galleryItem">
+        <img class="img-fluid" src="{{this.url}}" alt="{{this.title}}">
+    </div>
+    {{/each}}
+
+    
+</div>

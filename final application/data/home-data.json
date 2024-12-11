@@ -1,0 +1,65 @@
+{
+    "slideshow": [
+        {
+            "image": "/images/homepage/slideshow1.jpg",
+            "title": "Brush and Beyond",
+            "description": "Brush and Beyond is a virtual reality game that immerses players in an artists' working environments, capturing their struggle with diseases, and the joy of creating fine art"
+        },
+        {
+            "image": "/images/homepage/slideshow2.png",
+            "title": "Grocery Mania",
+            "description": "To receive points scan items when it across the black line. Scanning before or after will lose your points"
+        },
+        {
+            "image": "/images/homepage/slideshow3.jpg",
+            "title": "Tetris - Escape",
+            "description": "Two players control Tetris and a pixelated character respectively, and the two cooperate to escape together"
+        }
+    ],
+    "products": [
+        {
+            "image": "/images/game/game3.jpg",
+            "title": "Game Design",
+            "description": "Artwork by Goose Duck Design 2021 May",
+            "link": "/work/game/2"
+        },
+        {
+            "image": "/images/xr/work11.jpg",
+            "title": "XR Development 11",
+            "description": "Artwork by Goose Duck Design 2021 Dec",
+            "link": "/work/xr/10"
+        },
+        {
+            "image": "/images/game/game9.jpg",
+            "title": "Game Design",
+            "description": "Artwork by Goose Duck Design 2022 fall",
+            "link": "/work/game/8"
+        },
+        {
+            "image": "/images/uiux/ux7.jpg",
+            "title": "User-centered Design7",
+            "description": "Artwork by Goose Duck Design 2023 Spring",
+            "link": "/work/uiux/6"
+        }
+    ],
+    "components": [
+        {
+            "image": "/images/homepage/component1.png",
+            "title": "XR Development",
+            "description": "I have experience in developing XR applications using Unity and Unreal Engine. I can create immersive experiences for users, including games, simulations, and educational tools.",
+            "link": "/xr"
+        },
+        {
+            "image": "/images/homepage/component2.png",
+            "title": "Game Design",
+            "description": "I have experience in designing games, including both mobile and PC platforms. I can create engaging gameplay mechanics, user interfaces, and overall game design.",
+            "link": "/game"
+        },
+        {
+            "image": "/images/homepage/component3.jpg",
+            "title": "User-centered Design",
+            "description": "I have experience in creating user-centered designs for both mobile and web applications. I can design interfaces that are intuitive, easy to use, and visually appealing.",
+            "link": "/uiux"
+        }
+    ]
+}

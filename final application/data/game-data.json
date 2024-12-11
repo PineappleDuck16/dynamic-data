@@ -1,0 +1,81 @@
+{
+    "bannerimage": "/images/game/bannerimage2.png",
+    "title": "Game Development",
+    "works": [
+        
+            {
+                "title": "Shadowlight Chronicles",
+                "description": "A narrative-driven 2D platformer where players toggle between realms of light and shadow to solve puzzles and uncover the story of a forgotten warrior.",
+                "duration": "8–10 hours",
+                "image": "/images/game/game1.jpg"
+            },
+            {
+                "title": "Echoes of the Deep",
+                "description": "A rogue-like dungeon crawler set in an underwater city. Players customize their submarine and explore procedurally generated depths filled with mysteries and sea creatures.",
+                "duration": "12–15 hours",
+                "image": "/images/game/game2.jpg"
+            },
+            {
+                "title": "Petal Quest",
+                "description": "A cozy life simulation game where players cultivate magical plants and befriend woodland creatures to restore a once-thriving enchanted garden.",
+                "duration": "20+ hours",
+                "image": "/images/game/game3.jpg"
+            },
+            {
+                "title": "Byte Bandits",
+                "description": "A fast-paced top-down shooter where players hack and slash through cyberpunk-themed levels as a band of misfit hackers on a mission to take down an oppressive AI.",
+                "duration": "6–8 hours",
+                "image": "/images/game/game4.jpg"
+            },
+            {
+                "title": "Timberfolk Tales",
+                "description": "A resource management and storytelling game where players guide a village of anthropomorphic animals through seasonal challenges and community-building quests.",
+                "duration": "15–20 hours",
+                "image": "/images/game/game5.jpg"
+            },
+            {
+                "title": "Luminaria",
+                "description": "A visually stunning puzzle adventure where players manipulate light and color to awaken a sleeping world and piece together its lost history.",
+                "duration": "5–7 hours",
+                "image": "/images/game/game6.jpg"
+            },
+            {
+                "title": "Synthwave Standoff",
+                "description": "A neon-drenched arcade-style rhythm brawler where players fight enemies in sync with an electrifying synthwave soundtrack.",
+                "duration": "4–6 hours",
+                "image": "/images/game/game7.jpeg"
+            },
+            {
+                "title": "Pixelnomicon",
+                "description": "A retro-styled RPG where players explore cursed ruins and use an in-game spellbook to create and customize their own magic system.",
+                "duration": "20–30 hours",
+                "image": "/images/game/game8.jpg"
+            },
+            {
+                "title": "Skybound Saga",
+                "description": "A whimsical airship exploration game where players travel between floating islands, trading goods, recruiting crew members, and battling sky pirates.",
+                "duration": "10–15 hours",
+                "image": "/images/game/game9.jpg"
+            },
+            {
+                "title": "Fragments of Eden",
+                "description": "A narrative exploration game where players uncover the secrets of a lost utopian society through environmental storytelling and first-person puzzles.",
+                "duration": "6–8 hours",
+                "image": "/images/game/game10.jpg"
+            },
+            {
+                "title": "MechaForge Arena",
+                "description": "A tactical mech combat game where players design and pilot custom robots in turn-based battles across a post-apocalyptic wasteland.",
+                "duration": "15–20 hours",
+                "image": "/images/game/game11.jpeg"
+            },
+            {
+                "title": "Dreamcatcher Chronicles",
+                "description": "An adventure game where players navigate surreal dreamscapes to uncover hidden memories, confronting challenges based on emotional growth and self-discovery.",
+                "duration": "8–10 hours",
+                "image": "/images/game/game12.jpg"
+            }
+        ]
+        
+    
+}

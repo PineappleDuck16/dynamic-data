@@ -1,0 +1,11 @@
+<div class="row gallery">
+    {{#each data.works}}
+    <div class="col-3 galleryItem">
+        <a href="/work/{{../data.category}}/{{@index}}">
+            <img class="img-fluid" src="{{this.image}}" alt="">
+            <h5>{{this.title}}</h5>
+            <p>{{this.description}}</p>
+        </a>
+    </div>
+    {{/each}}
+</div>

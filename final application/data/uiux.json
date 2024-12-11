@@ -1,0 +1,79 @@
+{
+    "bannerimage": "/images/uiux/bannerimage2.png",
+    "title": "User Centered Design",
+    "works": [
+        {
+            "title": "Harmony App Redesign",
+            "description": "A redesign of a popular meditation app to improve user flow and introduce gamified features for daily mindfulness streaks.",
+            "duration": "3–4 months",
+            "image": "/images/uiux/ux1.png"
+        },
+        {
+            "title": "EcoShopper Dashboard",
+            "description": "A sleek and intuitive dashboard for an eco-conscious shopping platform, focusing on carbon footprint tracking and personalized recommendations.",
+            "duration": "2–3 months",
+            "image": "/images/uiux/ux2.jpg"
+        },
+        {
+            "title": "TravelBuddy Onboarding Experience",
+            "description": "A seamless onboarding flow for a travel planning app, designed to reduce friction and quickly connect users with relevant features.",
+            "duration": "1–2 months",
+            "image": "/images/uiux/ux3.jpg"
+        },
+        {
+            "title": "EduLearn Mobile Interface",
+            "description": "A mobile-friendly interface for an e-learning platform that incorporates interactive lessons and real-time collaboration tools.",
+            "duration": "4–5 months",
+            "image": "/images/uiux/ux4.png"
+        },
+        {
+            "title": "Restaurant Kiosk UI",
+            "description": "An easy-to-use self-ordering kiosk interface for restaurants, with accessibility features and dynamic menu customization.",
+            "duration": "2 months",
+            "image": "/images/uiux/ux5.png"
+        },
+        {
+            "title": "WellnessWear E-Commerce Site",
+            "description": "A responsive e-commerce site for a fitness apparel brand, emphasizing product storytelling and a streamlined checkout process.",
+            "duration": "3 months",
+            "image": "/images/uiux/ux6.jpg"
+        },
+        {
+            "title": "CityTransit Route Planner",
+            "description": "An innovative route-planning tool for a city's public transit system, integrating real-time data and multi-modal transport options.",
+            "duration": "3–4 months",
+            "image": "/images/uiux/ux7.jpg"
+        },
+        {
+            "title": "ArtCurator Digital Gallery",
+            "description": "A virtual gallery interface for showcasing art collections, allowing users to explore, bookmark, and purchase works seamlessly.",
+            "duration": "2–3 months",
+            "image": "/images/uiux/ux8.jpg"
+        },
+        {
+            "title": "HealthTrack Wearable Companion App",
+            "description": "A companion app for a wearable device that provides health metrics, insights, and personalized recommendations for users.",
+            "duration": "4 months",
+            "image": "/images/uiux/ux9.png"
+        },
+        {
+            "title": "GameHub Social Platform",
+            "description": "A UI/UX design for a social networking platform tailored to gamers, featuring personalized feeds, achievements, and team collaborations.",
+            "duration": "5–6 months",
+            "image": "/images/uiux/ux10.jpg"
+        },
+        {
+            "title": "HomeHarmony Smart Home App",
+            "description": "A smart home app designed for managing IoT devices, with a focus on intuitive controls and a centralized dashboard for all connected systems.",
+            "duration": "3–4 months",
+            "image": "/images/uiux/ux11.jpg"
+        },
+        {
+            "title": "FitStyle Customization Tool",
+            "description": "An interactive tool for customizing athletic gear, offering real-time previews and integration with social media for sharing designs.",
+            "duration": "2–3 months",
+            "image": "/images/uiux/ux12.jpeg"
+        }
+    ]
+    
+}
